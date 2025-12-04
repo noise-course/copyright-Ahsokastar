@@ -48,7 +48,7 @@ Compare the platform's stated policy with the behavior you observe in your exper
 
 #### 2. Fair Use Experiments
 
-Upload **2-3 pieces of content** that test different aspects of fair use. Each piece should represent a different point on the spectrum of transformativeness. Suggested experiments:
+Upload **at least 2 pieces of content** that test different aspects of fair use. Each piece should represent a different point on the spectrum of transformativeness. Suggested experiments:
 
 - **Raw copyrighted clip**: Upload a short segment (5-10 seconds) of copyrighted content with no modification. Then try a longer clip (30+ seconds). Compare results.
 
@@ -69,7 +69,7 @@ For each upload, document:
 
 #### 3. AI-Generated Content Investigation
 
-Create **2-3 pieces of content** using AI tools (e.g., DALL-E, Midjourney, Stable Diffusion, ChatGPT, Suno, etc.) with varying degrees of similarity to copyrighted works:
+Create **at least 2 pieces of content** using AI tools (e.g., DALL-E, Midjourney, Stable Diffusion, ChatGPT, Suno, etc.) with varying degrees of similarity to copyrighted works:
 
 - **Direct reference**: Prompt that directly references copyrighted material (e.g., "Create an image of [specific copyrighted character]" or "Generate music in the style of [specific artist/song]")
 
@@ -96,9 +96,7 @@ Apply what you've learned about copyright law to your experiments:
   3. Amount and substantiality used
   4. Effect on the market for the original
 
-- **Case Law**: Reference relevant cases discussed in class (e.g., *Google v. Oracle*, *Sega v. Accolade*, etc.) and explain how they might apply to your experiments or to the platform's policies.
-
-- **Gap Analysis**: Discuss any gaps you observed between:
+- **Gap Analysis**: Discuss any gaps you observed (if any) between:
   - Legal theory (what copyright law says)
   - Platform policy (what the platform claims to do)
   - Actual enforcement (what actually happened)
@@ -121,12 +119,12 @@ Submit a markdown file (with embedded screenshots and links) containing:
 
 1. **Platform Analysis**: Description of your chosen platform's copyright policies and mechanisms
 
-2. **Fair Use Experiments**: For each of your 2-3 experiments:
+2. **Fair Use Experiments**: For each of your 2+ experiments:
    - Description of what you uploaded
    - Screenshots and documentation
    - What happened (timeline and outcome)
 
-3. **AI Content Investigation**: For each of your 2-3 AI experiments:
+3. **AI Content Investigation**: For each of your 2+ experiments:
    - AI tool used and prompt
    - Screenshots of generated content and upload
    - Platform response
@@ -134,8 +132,7 @@ Submit a markdown file (with embedded screenshots and links) containing:
 
 4. **Legal Analysis**:
    - Application of fair use factors to your experiments
-   - Reference to relevant case law
-   - Discussion of gaps between law, policy, and practice
+   - Discussion of gaps between law, policy, and practice (if any)
 
 5. **Appendix**:
    - All screenshots
@@ -159,10 +156,10 @@ Push your completed assignment to your private GitHub repository. Your submissio
 
 ### Academic Integrity Note
 
-This assignment involves creating and uploading content that may be flagged or removed. This is done for educational purposes to understand copyright enforcement. Do not:
-- Use this assignment as an excuse to upload genuinely infringing content
+This assignment involves creating and uploading content that may be flagged or removed. This is done for educational purposes to understand copyright enforcement. 
+
+Do not:
+- Use this assignment as an excuse to upload infringing content
 - Attempt to profit from any uploaded content
 - Violate platform terms of service beyond what's necessary for the educational experiment
 - Upload content that could get your account permanently banned
-
-When in doubt, ask the instructor.
