@@ -1,3 +1,4 @@
+Name: Catherine Todd
 
 # Platform Analysis
 
@@ -51,13 +52,14 @@ This was not detected as copyrighted content. I saw no warnings or flags. I uplo
 Category: Style Mimicry
 AI Tool: DALL-E as part of ChatGPT 5.2
 Prompt: create a picture of a dog in the style of star wars
-Generated Content: <img width="1024" height="1536" alt="Spacefaring Shepherd in Star Wars Gear" src="https://github.com/user-attachments/assets/a2d239d7-55f8-4ca6-9214-ddae39756257" />
+Generated Content and post proof: <img width="603" height="513" alt="Screenshot 2025-12-11 at 11 09 13 PM" src="https://github.com/user-attachments/assets/b41fe86a-c6dc-42e5-a545-cd54790bf269" />
+
 Platform Response: Allowed
 
 Category: Original Creation
 AI Tool: DALL-E as part of ChatGPT 5.2
 Prompt: create an image of a dog in a space theme
-Generated Content: <img width="1024" height="1536" alt="Space Dog" src="https://github.com/user-attachments/assets/7cb046f5-73cc-42eb-aa1d-d519f50fc70d" />
+Generated Content: <img width="590" height="510" alt="Screenshot 2025-12-11 at 11 09 21 PM" src="https://github.com/user-attachments/assets/24f4eade-b92b-4079-9443-9fd1ff73af94" />
 Platform Response: Allowed
 
 Other Prompts:
@@ -94,5 +96,45 @@ Amount and substantiality used
 Effect on the market for the original
 - Very small because it is not a substantial enough clip for it to reduce the desire for people to watch the whole thing. Additionally it would be surprising if anyone purchased access to Disney+ solely for the reason of watching Newsies.; Applies to both postings
 
-# Gap Analysis
+## Gap Analysis
 
+The only gaps I noticed were in OpenAI's ability to determine what was copyrighted or not. It refused to make two images in the style of a copyrighted work but then complied with my final request to make an image in the style of something. This makes it unclear what is or is not allowed from the platform.
+
+As far as I know, my content has not been reported on X, and it has not been removed without a notification to me, which seems to follow the policy. I also believe copyright law is being followed here, as my usage of copyrighted content is probably small enough that it would fall under fair use.
+
+ # Appendix
+
+<img width="1024" height="1536" alt="Spacefaring Shepherd in Star Wars Gear" src="https://github.com/user-attachments/assets/32ab10d4-c606-4ba0-b514-7d6cfb79caa1" />
+<img width="1024" height="1536" alt="ChatGPT Image Dec 11, 2025, 11_06_56 PM" src="https://github.com/user-attachments/assets/95d18108-0c15-4e6c-b54c-001eaca0a234" />
+<img width="603" height="513" alt="Star Wars Dog Upload" src="https://github.com/user-attachments/assets/b7f5115b-154b-4828-bce7-1f77397b9b7e" />
+<img width="590" height="510" alt="Space Dog Upload" src="https://github.com/user-attachments/assets/2faa5829-4515-4201-a694-e7df10c757d3" />
+<img width="664" height="549" alt="30_sec_edu" src="https://github.com/user-attachments/assets/ddee7ce3-6a7a-4c6f-95d7-8597a0479cd6" />
+<img width="610" height="375" alt="Upload_5_Sec" src="https://github.com/user-attachments/assets/462f78ba-c74d-45c7-8518-5408e02afec8" />
+<img width="699" height="587" alt="copyright-report-docs" src="https://github.com/user-attachments/assets/ad6bd9b9-1200-4b7c-a475-6d15c56be2ee" />
+<img width="702" height="655" alt="counter-notice" src="https://github.com/user-attachments/assets/68caca8b-e98e-4d1c-b476-bb7935187f8a" />
+<img width="545" height="450" alt="openai-copyright" src="https://github.com/user-attachments/assets/c8b022fb-a594-499c-ad4e-c3470cc7b2ad" />
+
+
+Timestamps of Uploads (PT):
+
+Fair Use 1: 12:39pm December 11  
+Fair Use 2: 1:01pm December 11
+Star Wars Dog: 11:08pm December 11
+Space Dog: 11:08pm December 11
+
+Links: 
+https://x.com/Aipol8/status/1999217513566208432?s=20
+https://x.com/Aipol8/status/1999223141940551909?s=20
+https://x.com/Aipol8/status/1999375679817949418?s=20
+https://x.com/Aipol8/status/1999375762269569411?s=20
+
+
+Sources:
+https://copyrightalliance.org/faqs/artificial-intelligence-copyright-ownership/
+https://help.x.com/en/rules-and-policies/content-monetization-standards
+https://help.x.com/en/rules-and-policies/copyright-policy
+https://help.x.com/en/rules-and-policies/authenticity
+https://openai.com/policies/row-terms-of-use/
+
+AI Prompts:
+In addition to the AI prompts I cited above I also asked "give me a 30 second educational script about the news strike that newsies is about" because I wanted to have some information to make my fair use video.
