@@ -82,5 +82,17 @@ AI generated content is allowed as long as it is not something "that may result 
 
 # Legal Analysis
 
+Purpose and character of the use (transformative? commercial?)
+- The 5 second clip did not transform the content at all, the use was not commercial though
+- The longer clip did transform the clip as it added educational content to it through the voice over. Additionally the use was clearly educational
+Nature of the copyrighted work (creative vs. factual?)
+- The 5 second clip was mainly creative as it was a video of a Broadway Musical
+- The longer clip was also mainly creative as it was a video of a Broadway Musical
+Amount and substantiality used
+- 5 seconds (Out of 2.5 hours)
+- 30 seconds (Out of 2.5 hours)
+Effect on the market for the original
+- Very small because it is not a substantial enough clip for it to reduce the desire for people to watch the whole thing. Additionally it would be surprising if anyone purchased access to Disney+ solely for the reason of watching Newsies.; Applies to both postings
 
+# Gap Analysis
 
